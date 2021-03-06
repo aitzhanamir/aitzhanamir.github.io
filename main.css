@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body{
+    margin: 0px;
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    width: 1920px;
+    height: 3480px;
+    background: #FFFFFF;
+}
+.f{
+/* РЕАЛИЗУЕМ КРУПНЕЙШИЕ ПРОЕКТЫ В РОССИИ */
+position: absolute;
+width: 734px;
+left: 593px;
+top: 192px;
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 95px;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.f1{
+/* стадионы, газопроводы, мосты, дамбы */ 
+    position: absolute;
+    width: 734px;
+    height: 22px;
+    left: 593px;
+    top: 398px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.f2{
+/* Жасаған */
+position: absolute;
+width: 592.49px;
+height: 79.62px;
+left: 663px;
+top: 644px;
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 95px;
+text-align: center;
+text-transform: uppercase;
+color: #404149;
+}
+div{
+    position: absolute;
+    width: 1920px;
+    height: 588px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(81.55deg, #0F63AF 0%, #27FB55 100%);
+}
+.amir{
+/* image 2 */
+position: absolute;
+width: 409.82px;
+height: 444.95px;
+left: 432px;
+top: 853.59px;
+}
+.merey{
+/* image 1 */
+position: absolute;
+width: 406.31px;
+height: 444.95px;
+left: 1080.69px;
+top: 853.59px;
+}
+.amir1{
+/* Rectangle 4 */
+position: absolute;
+width: 124.12px;
+height: 7.03px;
+left: 432px;
+top: 1351.24px;
+background: #000000;
+}
+.merey1{
+/* Rectangle 4 */
+position: absolute;
+width: 124.12px;
+height: 7.03px;
+left: 1077.18px;
+top: 1351.24px;
+background: #9127FB;
+}
+.amirt{
+/* Сайт */
+position: absolute;
+width: 166px;
+height: 57px;
+left: 432px;
+top: 1376px;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 53px;
+color: #404149;
+}
+.mereyt{
+/* Информация */
+position: absolute;
+width: 190px;
+height: 55px;
+left: 1077.18px;
+top: 1375.83px;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 53px;
+color: #404149;
+}
+.amirt2{
+/* Сайт был создан на основе HTML 5! */
+position: absolute;
+height: 59px;
+left: 432px;
+top: 1445px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+color: #818181;
+}
+.mereyt2{
+    position: absolute;
+    width: 697px;
+    height: 75px;
+    left: 1077px;
+    top: 1433px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    color: #999999;
+}
+.t{
+    position: absolute;
+    width: 976px;
+    height: 145px;
+    left: 507px;
+    top: 1581px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 71px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+.g{
+    position: absolute;
+    width: 790px;
+    height: 305px;
+    left: 565px;
+    top: 1850px;    
+}
+.t2{
+    position: absolute;
+    width: 1274px;
+    height: 285px;
+    left: 349px;
+    top: 2100px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 71px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+.t3{
+    position: absolute;
+    width: 973px;
+    height: 421px;
+    left: 71px;
+    top: 2505px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 71px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.t4{
+    position: absolute;
+    width: 973px;
+    height: 425px;
+    left: 850px;
+    top: 3007px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 71px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.ph1{
+    position: absolute;
+    width: 801.81px;
+    height: 455.53px;
+    left: 1069px;
+    top: 2489.13px;
+}
+.ph2{
+    position: absolute;
+    width: 748px;
+    height: 511px;
+    left: 71px;
+    top: 2984px;
+}
