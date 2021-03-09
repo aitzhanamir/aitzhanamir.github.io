@@ -22,21 +22,6 @@ letter-spacing: 0.02em;
 text-transform: uppercase;
 color: #FFFFFF;
 }
-.f1{
-/* стадионы, газопроводы, мосты, дамбы */ 
-    position: absolute;
-    width: 734px;
-    height: 22px;
-    left: 593px;
-    top: 398px;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 27px;
-    text-align: center;
-    text-transform: uppercase;
-    color: #FFFFFF;
-}
 .f2{
 /* Жасаған */
 position: absolute;
